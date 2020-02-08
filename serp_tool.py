@@ -4,7 +4,7 @@ import urllib.request
 import json
 
 # change this
-ACCESS_KEY = "***REMOVED***"
+ACCESS_KEY = "qfrqu9pa12bp6z3znorho3wqsvuz304clwlvc962oogh7e2mjk"
 # change to keywords of interest
 KEYWORD = "how to rank instagram"
 # change this to the website of interest
