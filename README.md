@@ -21,7 +21,7 @@ First change the
 * [Python3](https://www.python.org/) - Python is a programming language that lets you work quickly
 and integrate systems more effectively.
 * [Pip](https://pip.pypa.io/en/stable/) - The Python Package Installer
-* [Google Search API](https://rapidapi.com/apigeek/api/google-search3) - an API for scraping Google search results
+* [Google Search API](https://link.sc/) - an API for scraping Google search results
 
 ## Contributing
 
